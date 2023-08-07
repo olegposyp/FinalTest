@@ -1,1 +1,1 @@
-﻿WriteLine("Введите число"):
+﻿Console.WriteLine("Введите число"):
