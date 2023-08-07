@@ -1,0 +1,15 @@
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\bin\BNB\Debug\net7.0\task07.exe
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\bin\BNB\Debug\net7.0\task07.deps.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\bin\BNB\Debug\net7.0\task07.runtimeconfig.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\bin\BNB\Debug\net7.0\task07.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\bin\BNB\Debug\net7.0\task07.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.csproj.AssemblyReference.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.AssemblyInfoInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.AssemblyInfo.cs
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.csproj.CoreCompileInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\refint\task07.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\task07.genruntimeconfig.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task07\obj\BNB\Debug\net7.0\ref\task07.dll
