@@ -1,0 +1,15 @@
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.csproj.AssemblyReference.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.AssemblyInfoInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.AssemblyInfo.cs
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.csproj.CoreCompileInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\bin\BNB\Debug\net7.0\task30.exe
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\bin\BNB\Debug\net7.0\task30.deps.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\bin\BNB\Debug\net7.0\task30.runtimeconfig.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\bin\BNB\Debug\net7.0\task30.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\bin\BNB\Debug\net7.0\task30.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\refint\task30.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\task30.genruntimeconfig.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task30\obj\BNB\Debug\net7.0\ref\task30.dll
