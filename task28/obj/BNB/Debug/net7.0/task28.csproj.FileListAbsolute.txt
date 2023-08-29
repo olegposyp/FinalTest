@@ -1,0 +1,15 @@
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\bin\BNB\Debug\net7.0\task28.exe
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\bin\BNB\Debug\net7.0\task28.deps.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\bin\BNB\Debug\net7.0\task28.runtimeconfig.json
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\bin\BNB\Debug\net7.0\task28.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\bin\BNB\Debug\net7.0\task28.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.csproj.AssemblyReference.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.AssemblyInfoInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.AssemblyInfo.cs
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.csproj.CoreCompileInputs.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\refint\task28.dll
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.pdb
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\task28.genruntimeconfig.cache
+C:\Users\Public\Учёба\Geekbrains\Dotnet\task28\obj\BNB\Debug\net7.0\ref\task28.dll
