@@ -23,7 +23,7 @@ int QuantityNumber(int[] array)
     int count = 0;
     for(int i = 0; i< array.Length; i++)
     {
-        if (array[i] > 9 && array[i] <100)
+        if (array[i] % 2 == 0)
         count++;
     }
     return count;
@@ -40,4 +40,4 @@ int[] userarray = GetRandomArray(arlength, start, end);
 PrintArray(userarray);
 System.Console.WriteLine();
 int quan = QuantityNumber(userarray);
-System.Console.WriteLine(quan);
+System.Console.WriteLine($"Количество чётных чисел в массиве {quan}");
