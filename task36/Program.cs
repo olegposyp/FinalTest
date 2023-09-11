@@ -21,10 +21,9 @@ void PrintArray(int[] arrayToPrint)
 int GetSumOdd(int[] array)
 {
     int sumOdd = 0;
-    for(int i = 0; i< array.Length; i++)
+    for(int i = 0; i< array.Length; i += 2)
     {
-        if (array[i] %2 > 0 || array[i] %2 < 0)
-        sumOdd += array[i];
+       sumOdd += array[i];
     }
     return sumOdd;
 }
@@ -38,4 +37,4 @@ int[] userarray = GetRandomArray(arlength, start, end);
 PrintArray(userarray);
 System.Console.WriteLine();
 int usersumOdd = GetSumOdd(userarray);
-System.Console.WriteLine($"Сумма  чисел на нечётных позициях в массиве равна {usersumOdd}");
+System.Console.WriteLine($"Сумма чисел на нечётных позициях в массиве равна {usersumOdd}");
