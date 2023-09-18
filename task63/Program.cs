@@ -3,7 +3,7 @@ string numb = string.Empty;
 
 void NatNum(int end)
 {
-    if (end == 1 ) numb = "1 "+numb;
+    if (end == 1 ) numb = "1"+numb;
 else 
     {
     numb = Convert.ToString(end)+" "+numb;
